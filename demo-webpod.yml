@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: envtest
-    image: anshuldevops/kubernetes-web
+    image: ahsan/kubernetes-web
     ports:
     - containerPort: 8080
     env:
